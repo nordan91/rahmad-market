@@ -1,0 +1,29 @@
+body {
+    font-family: sans-serif;
+    padding: 20px;
+  }
+
+  #navbar {
+    background-color: rgba(255, 59, 15, 0.93);
+  }
+  .span {
+    color: rgb(97, 0, 215);
+  }
+  .daftar {
+    padding-top: 60px;
+  }
+  #produk-container {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    padding-top: 12px;
+  }
+  .produk {
+    border: 1px solid #ccc;
+    padding: 10px;
+    width: 200px;
+  }
+  .produk img {
+    width: 100%;
+  }
+  
